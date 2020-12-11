@@ -1,4 +1,7 @@
+
 author: YB and co and co
+
+affiliations: self sufficient
 
 title: Coffee is yummy
 
@@ -10,3 +13,5 @@ references2
 figure 1. coffee consumption w cigs
 
 conclusion: coffee is delish
+
+
